@@ -1,8 +1,9 @@
-public class perulangan_2 {
+public class perulangan {
     public static void main(String[] args) {
-         for (int i = 0; i < 100; i--){
+         int i = 1;
+        while (i<= 100){
             System.out.println("Nama Saya: MOCH VIERLY RAJA ARIF GANDA SYAHPUTRA");
-            
+            i++;
         }
     }
     
